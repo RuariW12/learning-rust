@@ -1,5 +1,0 @@
-******************************************
-RUST LEARNING NOTES
-******************************************
-
-'rustup doc' - offline rust documentation
