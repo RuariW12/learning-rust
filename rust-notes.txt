@@ -1,0 +1,18 @@
+******************************************
+RUST LEARNING NOTES
+******************************************
+
+'rustup doc' - offline rust documentatior
+
+*** Chapter 1 ***
+Cargo is Rust's build system and package manager. 
+  - Handles the tasks of building code, downloading dependencies, and building.
+  - 'Cargo new example' creates a new directory called example, with a Cargo.toml and      src directory with a main.rs
+  - 'cargo build' creates an executable in target/debug/example rather than in the cur     rent directory.
+  - 'cargo run' is more convenient because its the combo of build and running the exe
+  - 'cargo check' checks if the code is compilable but doesn't execute.
+  - commands are the same across os's
+  - To summarize, Cargo coordinates the project.
+
+*** Chapter 2 ***
+
